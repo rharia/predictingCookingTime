@@ -1,4 +1,4 @@
-# predictingCookingTime
+# Predicting Cooking Time
 
 ### Framing the Problem
 
