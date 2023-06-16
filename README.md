@@ -1,3 +1,6 @@
+
+Our exploratory data analysis on this dataset can be found https://rharia.github.io/TimeToCookUpAnswers/
+
 ### Framing the Problem
 
 #### Project Identification
